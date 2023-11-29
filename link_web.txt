@@ -1,1 +1,1 @@
-https://167.71.219.94/myweb/api.phf
+https://167.71.219.94/myweb/api.php
