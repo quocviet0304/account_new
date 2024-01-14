@@ -1,1 +1,1 @@
-https://167.71.219.94/myweb/api.php
+http://142.93.140.199/myweb/api.php
