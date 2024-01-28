@@ -1,1 +1,1 @@
-http://142.93.140.199/myweb/api.php
+http://vietsoft.mooo.com/myweb/api.php
